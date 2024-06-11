@@ -1,12 +1,14 @@
-## Hi there 👋
 
-<!--
+<div align="center">
 
-**Here are some ideas to get you started:**
+<img src="https://avatars.githubusercontent.com/u/171086856?s=200&v=4" alt="Chad Programming | GitHub Avatar." />
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Chads-Programming
+
+Hello, we are Chad Programming!, a Group of Developers who create Projects for the Community. 
+To improve in our Skills that we know and have a fresh community (Non-TOXIC)
+
+<footer>
+  <a href="https://discord.gg/XXh3NhsZ">Click here to go to the Discord!</a>
+</footer>
+</div>
