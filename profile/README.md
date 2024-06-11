@@ -9,6 +9,6 @@ Hello, we are Chad Programming!, a Group of Developers who create Projects for t
 To improve in our Skills that we know and have a fresh community (Non-TOXIC)
 
 <footer>
-  <a href="https://discord.gg/XXh3NhsZ">Click here to go to the Discord!</a>
+  <a href="https://discord.gg/XXh3NhsZ" target="_blank">Click here to go to the Discord!</a>
 </footer>
 </div>
